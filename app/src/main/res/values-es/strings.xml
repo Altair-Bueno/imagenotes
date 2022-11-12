@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="record_title_hint">Título</string>
+    <string name="app_name">Image Notes</string>
+    <string name="new_record">Nuevo registro</string>
+    <string name="record_created_sucesfull">Registro creado</string>
+    <string name="record_created_error">Error al registrar</string>
+    <string name="record_required_fields">¡Todos los campos son obligatorios!</string>
+    <string name="record_camera_error">Error en la cámara</string>
+    <string name="delete">Borrar</string>
+    <string name="deleted">Borrado</string>
+    <string name="empty_message">Pulsa el botón + para añadir notas</string>
+</resources>
